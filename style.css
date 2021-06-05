@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&family=Ubuntu:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+
+.first{
+  background-color:green;
+  justify-content: flex-end;
+  padding: 10px 0;
+  
+}
+
+
+.menu{
+  font-size: 1.5rem;
+  font-family: 'ubuntu';
+  font-weight: bold;
+  font-stretch: extra-expanded;
+  color: antiquewhite;
+  text-transform: capitalize;
+  margin-right: 1%;
+
+}
+
+.second{
+  display: flex;
+  justify-content:center;
+  margin-top: 25px;
+}
+
+#input{
+  width:30%;
+  padding: 7px 15px;
+}
+ .btn{
+   margin-left: 15px;
+   padding: 7px 15px;
+
+ }
+
+ .myimage{
+   width:200px ;
+   height: 200px;
+ }
+
+ section{
+   margin: 3% 0;
+ }
+
+
+ .third{
+   float:right;
+   margin-right: 2%;
+ }
+
+ .article{
+   float: left;
+   margin-left: 2%;
+ }
+
+.heading-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.heading{
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: 'ubuntu';
+  color: green;
+}
+
+.special{
+ background-color:#fdfcfa;
+}
